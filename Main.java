@@ -10,18 +10,6 @@ public class Main {
 
 
 
-        //-------------Login---------------------
-        String Password = "deepadeep";
-        System.out.println("Enter your password: ");
-        String inputPassword = scanner.nextLine();
-
-
-        if (!inputPassword.equals(Password)) {
-            System.out.println("Wrong");
-            return;
-        }
-        //------------------------------------------
-
 
 
         System.out.println("Enter Your Amount: ");
